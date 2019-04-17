@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AutoSignDashboard:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="autoPatchSign.war">
+      <element id="artifact" artifact-name="AutoSignDashboard:war exploded" />
+    </root>
+  </artifact>
+</component>
